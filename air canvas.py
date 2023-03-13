@@ -4,7 +4,7 @@ from collections import deque
 
 
 def setValues(x):
-   print("")
+   print("Air Canvas")
 
 
 cv2.namedWindow("Color detectors")
